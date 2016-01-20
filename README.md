@@ -11,4 +11,10 @@ This was completely based off the Ruby on Rails 'Getting Started' guide. I did n
 - Install sqlite3: http://www.tutorialspoint.com/sqlite/sqlite_installation.htm
  
 #### Issues I Ran Into & Resolved
-- <Coming soon>
+- Coming soon
+
+#### Starting the server
+- Open the Command Prompt (Window + r, then type 'cmd')
+- Set current directory: cd your-directory\blog\
+- Launch server: ruby bin\rails server
+- Open browser and enter the address http://localhost:3000
