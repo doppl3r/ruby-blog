@@ -1,0 +1,10 @@
+body { 
+	background-color: #262626;
+	color: #fff; 
+}
+section.wrapper { 
+	background-color: #535353; 
+	max-width: 480px; 
+	margin: 0 auto; 
+	padding: 12px;
+}
